@@ -1,0 +1,8 @@
+ip-172-31-43-169.ec2.internal
+{
+  "Code" : "Success",
+  "LastUpdated" : "2018-03-10T21:17:12Z",
+  "InstanceProfileArn" : "arn:aws:iam::516267547158:instance-profile/S3-full-access",
+  "InstanceProfileId" : "AIPAJTYW5W7CGXEQXANZO"
+}
+launch-wizard-4
